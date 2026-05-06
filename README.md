@@ -40,4 +40,4 @@ A short excerpt from the letter:
 
 > "Tanmay showed a clear ability to interpret high-dimensional transcriptomic data and translate computational results into biologically meaningful insights... his understanding of bioinformatics, machine learning, and cancer genomics was exceptional."
 
-— [Dr. Sarita Poonia, Postdoctoral Fellow at Cleveland Clinic](https://in.linkedin.com/in/sarita-poonia-computational-biologist)
+> — [Dr. Sarita Poonia, Postdoctoral Fellow at Cleveland Clinic](https://in.linkedin.com/in/sarita-poonia-computational-biologist)
