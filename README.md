@@ -1,5 +1,5 @@
 # Overview
-During the course of this internship with Pharmint Pte Ltd., I worked on creating a model to predict **survival rates** based on **gene expression data** on breast cancer patients. 
+During the course of this externship with Pharmint Pte Ltd., I worked on creating a model to predict **survival rates** based on **gene expression data** on breast cancer patients. 
 I used tools such as scikit-survival (Constructing models), pandas (Data preprocessing / handling), numpy (Transformations), and seaborn (Data visualization)
 
 # Data
@@ -32,3 +32,10 @@ Due to the vast amount of data, the file size was too large for GitHub uploads. 
 I reported my findings in the slideshow.
 
 [View Research Presentation (PDF)](./Internship%20Presentation.pdf)
+
+# Recognition and Endorsement
+Received a letter of recommendation from my mentor.
+
+A short excerpt from the letter:
+"Tanmay showed a clear ability to interpret high-dimensional transcriptomic data and translate computational results into biologically meaningful insights... his understanding of bioinformatics, machine learning, and cancer genomics was exceptional."
+— Dr. Sarita Poonia, Postdoctoral Fellow at Cleveland Clinic
